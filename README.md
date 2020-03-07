@@ -4,5 +4,6 @@
 
 <파일 설명>
 
-PriorityBased_eng.c : 영어 주석
-PriorityBased_kor.c : 한글 주석
+PriorityBased_eng.c : 영어 주석 코드
+
+PriorityBased_kor.c : 한글 주석 코드
